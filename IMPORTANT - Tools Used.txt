@@ -1,0 +1,11 @@
+For easy Modelate a character:
+
+ - Adobe Fuse CC (Steam version not compatible with Mixamo)
+
+For modelating your own character from scratch
+
+ - Blender (used version 2.79)
+
+For characters animatations:
+
+ - Mixamo.com
